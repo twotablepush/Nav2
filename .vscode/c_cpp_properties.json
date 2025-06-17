@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/tablepush/nav2_ws/install/serial/include/**",
+        "/home/tablepush/nav2_ws/install/openslam_gmapping/include/**",
+        "/home/tablepush/ros2_ws/install/custom_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/tablepush/nav2_ws/src/neuronbot2/neuronbot2_bringup/include/**",
+        "/home/tablepush/nav2_ws/src/serial/include/**",
+        "/home/tablepush/nav2_ws/src/slam_gmapping/openslam_gmapping/include/**",
+        "/home/tablepush/nav2_ws/src/slam_gmapping/slam_gmapping/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
